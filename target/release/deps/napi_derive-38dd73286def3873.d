@@ -1,0 +1,10 @@
+/Users/anupambatra/Documents/dubdubdebug/priompt/target/release/deps/libnapi_derive-38dd73286def3873.dylib: /Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/lib.rs /Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/compat_macro.rs /Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/expand.rs /Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/parser/mod.rs /Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/parser/attrs.rs /Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/expand/napi.rs
+
+/Users/anupambatra/Documents/dubdubdebug/priompt/target/release/deps/napi_derive-38dd73286def3873.d: /Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/lib.rs /Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/compat_macro.rs /Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/expand.rs /Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/parser/mod.rs /Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/parser/attrs.rs /Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/expand/napi.rs
+
+/Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/lib.rs:
+/Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/compat_macro.rs:
+/Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/expand.rs:
+/Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/parser/mod.rs:
+/Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/parser/attrs.rs:
+/Users/anupambatra/.cargo/registry/src/index.crates.io-6f17d22bba15001f/napi-derive-2.14.6/src/expand/napi.rs:
